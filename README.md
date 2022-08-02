@@ -31,6 +31,7 @@ So here's the trash can:
 
 
 ##Project management
+
 - [Cart before the horse](https://en.wikipedia.org/wiki/Cart_before_the_horse): Focusing too many resources on a stage of a project out of its sequence
 - [Death march](https://en.wikipedia.org/wiki/Death_march_(project_management)): A project whose staff, while expecting it to fail, are compelled to continue, often with much overwork, by management in denial of the project's possible failure
 - [Ninety-ninety rule](https://en.wikipedia.org/wiki/Ninety%E2%80%93ninety_rule): Tendency to underestimate the amount of time to complete a project when it is "nearly done"
@@ -42,6 +43,7 @@ So here's the trash can:
 
 
 ##Software design
+
 - [Abstraction inversion](https://en.wikipedia.org/wiki/Abstraction_inversion): Not exposing implemented functionality required by callers of a function/method/constructor, so that the calling code awkwardly re-implements the same functionality in terms of those calls
 - [Ambiguous viewpoint](https://en.wikipedia.org/wiki/Ambiguous_viewpoint): Presenting a model (usually Object-oriented analysis and design (OOAD)) without specifying its viewpoint
 - [Big ball of mud](https://en.wikipedia.org/wiki/Big_ball_of_mud): A system with no recognizable structure
