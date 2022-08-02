@@ -7,25 +7,26 @@ So here's the trash can:
 ## Organizational
 <br>
 
-    * [Analysis paralysis](https://en.wikipedia.org/wiki/Analysis_paralysis): A project that has stalled in the analysis phase of development, and is unable to achieve support for any of the potential plans of its implementation
-    * [Bicycle shed](https://en.wikipedia.org/wiki/Law_of_triviality): Giving disproportionate weight to trivial issues
-    * [Bleeding edge](https://en.wikipedia.org/wiki/Law_of_triviality): Operating with cutting-edge technologies that are still untested or unstable, leading to cost overruns, under-performance or delayed delivery of the product
-    * [Bystander apathy](https://en.wikipedia.org/wiki/Bystander_effect): The phenomenon in which people are less likely to or do not offer help to a person in need when others are present
-    * [Cash cow](https://en.wikipedia.org/wiki/Cash_cow): A profitable legacy product that often leads to complacency about new products
-    * [Design by committee](https://en.wikipedia.org/wiki/Design_by_committee): The result of having many contributors to a design, but no unifying vision
-    * [Escalation of commitment](https://en.wikipedia.org/wiki/Escalation_of_commitment): Failing to revoke a decision when it proves wrong
-    * [Groupthink](https://en.wikipedia.org/wiki/Groupthink): A collective state where group members begin, often unknowingly, to think alike and reject differing viewpoints
-    * [Management by objectives](https://en.wikipedia.org/wiki/Management_by_objectives) ([SAFe](https://en.wikipedia.org/wiki/Scaled_agile_framework)): Management operating with the exclusive focus on quantitative management criteria, such as number of sales, when these are non-essential or cost too much to acquire
-    * [Micromanagement](https://en.wikipedia.org/wiki/Micromanagement): Ineffective results stemming from excessive observation, supervision, or other hands-on involvement from management
-    * [Moral hazard](https://en.wikipedia.org/wiki/Moral_hazard): Insulating a decision-maker from the consequences of their decision
-    * [Mushroom management](https://en.wikipedia.org/wiki/Mushroom_management): Keeping employees "in the dark and fed manure" (also "left to stew and finally canned") about decisions being taken by management
-    * [Peter principle](https://en.wikipedia.org/wiki/Peter_principle): Continually promoting otherwise well-performing employees up to a position they are unsuited for, with responsibilities they are incompetent at completing, where they remain indefinitely[6]
-    * [Seagull management](https://en.wikipedia.org/wiki/Seagull_management): Management in which managers only interact with employees when a problem arises, when they "fly in, make a lot of noise, dump on everyone, do not solve the problem, then fly out"
-    * [Stovepipe or Silos](https://en.wikipedia.org/wiki/Stovepipe_(organisation)): An organizational structure of isolated or semi-isolated teams, in which too many communications take place up and down the hierarchy, rather than directly with other teams across the organization
-    * [Typecasting](https://en.wikipedia.org/wiki/Typecasting): Locking successful employees into overly-safe, narrowly defined, predictable roles based on their past successes rather than their potential
-    * [Vendor lock-in](https://en.wikipedia.org/wiki/Vendor_lock-in): Making a system excessively dependent on an externally supplied component
+    - [Analysis paralysis](https://en.wikipedia.org/wiki/Analysis_paralysis): A project that has stalled in the analysis phase of development, and is unable to achieve support for any of the potential plans of its implementation
+    - [Bicycle shed](https://en.wikipedia.org/wiki/Law_of_triviality): Giving disproportionate weight to trivial issues
+    - [Bleeding edge](https://en.wikipedia.org/wiki/Law_of_triviality): Operating with cutting-edge technologies that are still untested or unstable, leading to cost overruns, under-performance or delayed delivery of the product
+    - [Bystander apathy](https://en.wikipedia.org/wiki/Bystander_effect): The phenomenon in which people are less likely to or do not offer help to a person in need when others are present
+    - [Cash cow](https://en.wikipedia.org/wiki/Cash_cow): A profitable legacy product that often leads to complacency about new products
+    - [Design by committee](https://en.wikipedia.org/wiki/Design_by_committee): The result of having many contributors to a design, but no unifying vision
+    - [Escalation of commitment](https://en.wikipedia.org/wiki/Escalation_of_commitment): Failing to revoke a decision when it proves wrong
+    - [Groupthink](https://en.wikipedia.org/wiki/Groupthink): A collective state where group members begin, often unknowingly, to think alike and reject differing viewpoints
+    - [Management by objectives](https://en.wikipedia.org/wiki/Management_by_objectives) ([SAFe](https://en.wikipedia.org/wiki/Scaled_agile_framework)): Management operating with the exclusive focus on quantitative management criteria, such as number of sales, when these are non-essential or cost too much to acquire
+    - [Micromanagement](https://en.wikipedia.org/wiki/Micromanagement): Ineffective results stemming from excessive observation, supervision, or other hands-on involvement from management
+    - [Moral hazard](https://en.wikipedia.org/wiki/Moral_hazard): Insulating a decision-maker from the consequences of their decision
+    - [Mushroom management](https://en.wikipedia.org/wiki/Mushroom_management): Keeping employees "in the dark and fed manure" (also "left to stew and finally canned") about decisions being taken by management
+    - [Peter principle](https://en.wikipedia.org/wiki/Peter_principle): Continually promoting otherwise well-performing employees up to a position they are unsuited for, with responsibilities they are incompetent at completing, where they remain indefinitely[6]
+    - [Seagull management](https://en.wikipedia.org/wiki/Seagull_management): Management in which managers only interact with employees when a problem arises, when they "fly in, make a lot of noise, dump on everyone, do not solve the problem, then fly out"
+    - [Stovepipe or Silos](https://en.wikipedia.org/wiki/Stovepipe_(organisation)): An organizational structure of isolated or semi-isolated teams, in which too many communications take place up and down the hierarchy, rather than directly with other teams across the organization
+    - [Typecasting](https://en.wikipedia.org/wiki/Typecasting): Locking successful employees into overly-safe, narrowly defined, predictable roles based on their past successes rather than their potential
+    - [Vendor lock-in](https://en.wikipedia.org/wiki/Vendor_lock-in): Making a system excessively dependent on an externally supplied component
 
-Project management
+##Project management
+<br>
 
     Cart before the horse: Focusing too many resources on a stage of a project out of its sequence
     Death march: A project whose staff, while expecting it to fail, are compelled to continue, often with much overwork, by management in denial of the project's possible failure[7]
