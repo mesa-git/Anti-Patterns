@@ -5,7 +5,7 @@ So here's the trash can:
 <br><br>
 # Anti-Patterns
 
-## Organizational
+### Organizational
 
 - [Analysis paralysis](https://en.wikipedia.org/wiki/Analysis_paralysis): A project that has stalled in the analysis phase of development, and is unable to achieve support for any of the potential plans of its implementation
 
