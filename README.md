@@ -8,9 +8,13 @@ So here's the trash can:
 <br>
 
     - [Analysis paralysis](https://en.wikipedia.org/wiki/Analysis_paralysis): A project that has stalled in the analysis phase of development, and is unable to achieve support for any of the potential plans of its implementation
+
     - [Bicycle shed](https://en.wikipedia.org/wiki/Law_of_triviality): Giving disproportionate weight to trivial issues
+
     - [Bleeding edge](https://en.wikipedia.org/wiki/Law_of_triviality): Operating with cutting-edge technologies that are still untested or unstable, leading to cost overruns, under-performance or delayed delivery of the product
+    
     - [Bystander apathy](https://en.wikipedia.org/wiki/Bystander_effect): The phenomenon in which people are less likely to or do not offer help to a person in need when others are present
+    
     - [Cash cow](https://en.wikipedia.org/wiki/Cash_cow): A profitable legacy product that often leads to complacency about new products
     - [Design by committee](https://en.wikipedia.org/wiki/Design_by_committee): The result of having many contributors to a design, but no unifying vision
     - [Escalation of commitment](https://en.wikipedia.org/wiki/Escalation_of_commitment): Failing to revoke a decision when it proves wrong
