@@ -7,7 +7,7 @@ So here's the trash can:
 ## Organizational
 <br>
 
-    -- [Analysis paralysis](https://en.wikipedia.org/wiki/Analysis_paralysis): A project that has stalled in the analysis phase of development, and is unable to achieve support for any of the potential plans of its implementation
+    1. [Analysis paralysis](https://en.wikipedia.org/wiki/Analysis_paralysis): A project that has stalled in the analysis phase of development, and is unable to achieve support for any of the potential plans of its implementation
 
     -- [Bicycle shed](https://en.wikipedia.org/wiki/Law_of_triviality): Giving disproportionate weight to trivial issues
 
