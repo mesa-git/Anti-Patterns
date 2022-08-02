@@ -1,5 +1,6 @@
-NOTE: Done because some "mod" on wikipedia decided "first of all, "lists of examples" are not always encyclopedic; they are more a trash can."
-The original page was here: https://en.wikipedia.org/w/index.php?title=Anti-pattern
+NOTE:
+The original page was here: [Wikipedia:Anti-Patterns](https://en.wikipedia.org/w/index.php?title=Anti-pattern)
+This was done because some "mod" on wikipedia decided "first of all, "lists of examples" are not always encyclopedic; they are more a trash can."
 So here's the trash can:
 
 <br><br>
