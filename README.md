@@ -27,10 +27,10 @@ So here's the trash can:
 - [Seagull management](https://en.wikipedia.org/wiki/Seagull_management): Management in which managers only interact with employees when a problem arises, when they "fly in, make a lot of noise, dump on everyone, do not solve the problem, then fly out"
 - [Stovepipe or Silos](https://en.wikipedia.org/wiki/Stovepipe_(organisation)): An organizational structure of isolated or semi-isolated teams, in which too many communications take place up and down the hierarchy, rather than directly with other teams across the organization
 - [Typecasting](https://en.wikipedia.org/wiki/Typecasting): Locking successful employees into overly-safe, narrowly defined, predictable roles based on their past successes rather than their potential
-- [Vendor lock-in](https://en.wikipedia.org/wiki/Vendor_lock-in): Making a system excessively dependent on an externally supplied component
+- [Vendor lock-in](https://en.wikipedia.org/wiki/Vendor_lock-in): Making a system excessively dependent on an externally supplied component.
 
-
-##Project management
+<br>
+###Project management
 
 - [Cart before the horse](https://en.wikipedia.org/wiki/Cart_before_the_horse): Focusing too many resources on a stage of a project out of its sequence
 - [Death march](https://en.wikipedia.org/wiki/Death_march_(project_management)): A project whose staff, while expecting it to fail, are compelled to continue, often with much overwork, by management in denial of the project's possible failure
@@ -41,8 +41,8 @@ So here's the trash can:
 - [Brooks's law](https://en.wikipedia.org/wiki/Brooks%27s_law): Adding more resources to a project to increase velocity, when the project is already slowed by coordination overhead
 - [Gold plating](https://en.wikipedia.org/wiki/Gold_plating_(project_management)): Continuing to work on a task or project well past the point at which extra effort is not adding value
 
-
-##Software design
+<br>
+###Software design
 
 - [Abstraction inversion](https://en.wikipedia.org/wiki/Abstraction_inversion): Not exposing implemented functionality required by callers of a function/method/constructor, so that the calling code awkwardly re-implements the same functionality in terms of those calls
 - [Ambiguous viewpoint](https://en.wikipedia.org/wiki/Ambiguous_viewpoint): Presenting a model (usually Object-oriented analysis and design (OOAD)) without specifying its viewpoint
@@ -55,7 +55,8 @@ So here's the trash can:
 - [Race hazard (or race condition)](https://en.wikipedia.org/wiki/Race_condition): Failing to see the consequences of events that can sometimes interfere with each other.
 - [Stovepipe system](https://en.wikipedia.org/wiki/Stovepipe_system): A barely maintainable assemblage of ill-related components
 
-##Object-oriented programming
+<br>
+###Object-oriented programming
 
 - [Anemic domain model](https://en.wikipedia.org/wiki/Anemic_domain_model): The use of the domain model without any business logic. The domain model's objects cannot guarantee their correctness at any moment, because their validation and mutation logic is placed somewhere outside (most likely in multiple places). Martin Fowler considers this to be an anti-pattern, but some disagree that it is always an anti-pattern.
 - [Call super](https://en.wikipedia.org/wiki/Call_super): Requiring subclasses to call a superclass's overridden method
@@ -69,7 +70,8 @@ So here's the trash can:
 - [Sequential coupling](https://en.wikipedia.org/wiki/Sequential_coupling): A class that requires its methods to be called in a particular order
 - [Yo-yo problem](https://en.wikipedia.org/wiki/Yo-yo_problem): A structure (e.g., of inheritance) that is hard to understand due to excessive fragmentation
 
-##Programming
+<br>
+###Programming
 
 - [Accidental complexity](https://en.wikipedia.org/wiki/No_Silver_Bullet): Programming tasks that could be eliminated with better tools (as opposed to essential complexity inherent in the problem being solved)
 - [Action at a distance](https://en.wikipedia.org/wiki/Action_at_a_distance_(computer_programming)): Unexpected interaction between widely separated parts of a system
@@ -91,7 +93,8 @@ So here's the trash can:
 - [Soft code](https://en.wikipedia.org/wiki/Softcoding): Storing business logic in configuration files rather than source code[11]
 - [Spaghetti code](https://en.wikipedia.org/wiki/Spaghetti_code): Programs whose structure is barely comprehensible, especially because of misuse of code structures
 
-##Methodological
+<br>
+###Methodological
 
 - [Copy and paste programming](https://en.wikipedia.org/wiki/Copy-and-paste_programming): Copying (and modifying) existing code rather than creating generic solutions
 - [Golden hammer](https://en.wikipedia.org/wiki/Law_of_the_instrument): Assuming that a favorite solution is universally applicable (See: Silver bullet)
@@ -103,7 +106,8 @@ So here's the trash can:
 - [Silver bullet](https://en.wikipedia.org/wiki/No_Silver_Bullet): Assuming that a favorite technical solution can solve a larger process or problem
 - [Tester-driven development](https://en.wikipedia.org/wiki/Tester-driven_development): Software projects in which new requirements are specified in bug reports
 
-##Configuration management
+<br>
+###Configuration management
 
 - [Dependency hell](https://en.wikipedia.org/wiki/Dependency_hell): Problems with versions of required products
 - [DLL hell](https://en.wikipedia.org/wiki/DLL_Hell): Inadequate management of dynamic-link libraries (DLLs), specifically on Microsoft Windows
