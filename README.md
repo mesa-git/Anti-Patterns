@@ -1,10 +1,9 @@
 NOTE: Done because some "mod" on wikipedia decided "first of all, "lists of examples" are not always encyclopedic; they are more a trash can."
 So here's the trash can:
+<br><br>
 
-
-
-##Social and business operations
-#Organizational
+## Organizational
+<br>
 
     * [Analysis paralysis](https://en.wikipedia.org/wiki/Analysis_paralysis): A project that has stalled in the analysis phase of development, and is unable to achieve support for any of the potential plans of its implementation
     * [Bicycle shed](https://en.wikipedia.org/wiki/Law_of_triviality): Giving disproportionate weight to trivial issues
