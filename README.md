@@ -29,7 +29,7 @@ So here's the trash can:
 - [Typecasting](https://en.wikipedia.org/wiki/Typecasting): Locking successful employees into overly-safe, narrowly defined, predictable roles based on their past successes rather than their potential
 - [Vendor lock-in](https://en.wikipedia.org/wiki/Vendor_lock-in): Making a system excessively dependent on an externally supplied component.
 
-<br>
+<br><br>
 ###Project management
 
 - [Cart before the horse](https://en.wikipedia.org/wiki/Cart_before_the_horse): Focusing too many resources on a stage of a project out of its sequence
