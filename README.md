@@ -79,14 +79,14 @@ So here's the trash can:
 - [Error hiding](https://en.wikipedia.org/wiki/Error_hiding): Catching an error message before it can be shown to the user and either showing nothing or showing a meaningless message. This anti-pattern is also named Diaper Pattern. Also can refer to erasing the Stack trace during exception handling, which can hamper debugging.
 - [Hard code](https://en.wikipedia.org/wiki/Hard_coding): Embedding assumptions about the environment of a system in its implementation
 - [Lasagna code](https://en.wikipedia.org/wiki/Spaghetti_code#Lasagna_code): Programs whose structure consists of too many layers of inheritance
-- [Lava flow](https://en.wikipedia.org/wiki/Lava_flow_(programming)): Retaining undesirable (redundant or low-quality) code because removing it is too expensive or has unpredictable consequences[9][10]
+- [Lava flow](https://en.wikipedia.org/wiki/Lava_flow_(programming)): Retaining undesirable (redundant or low-quality) code because removing it is too expensive or has unpredictable consequences.
 - [Loop-switch sequence](https://en.wikipedia.org/wiki/Loop-switch_sequence): Encoding a set of sequential steps using a switch within a loop statement
 - [Magic numbers](https://en.wikipedia.org/wiki/Magic_number_(programming)#Unnamed_numerical_constants): Including unexplained numbers in algorithms
 - [Magic strings](https://en.wikipedia.org/wiki/Magic_string#Magic_strings_in_code): Implementing presumably unlikely input scenarios, such as comparisons with very specific strings, to mask functionality.
 - [Repeating yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself): Writing code that contains repetitive patterns and substrings over again; avoid with once and only once (abstraction principle)
 - [Shooting the messenger](https://en.wikipedia.org/wiki/Shooting_the_messenger): Throwing exceptions from the scope of a plugin or subscriber in response to legitimate input, especially when this causes the outer scope to fail.
 - [Shotgun surgery](https://en.wikipedia.org/wiki/Shotgun_surgery): Developer adds features to an application codebase that span a multiplicity of implementors or implementations in a single change
-- [Soft code](https://en.wikipedia.org/wiki/Softcoding): Storing business logic in configuration files rather than source code[11]
+- [Soft code](https://en.wikipedia.org/wiki/Softcoding): Storing business logic in configuration files rather than source code.
 - [Spaghetti code](https://en.wikipedia.org/wiki/Spaghetti_code): Programs whose structure is barely comprehensible, especially because of misuse of code structures
 
 ### Methodological
@@ -107,3 +107,12 @@ So here's the trash can:
 - [DLL hell](https://en.wikipedia.org/wiki/DLL_Hell): Inadequate management of dynamic-link libraries (DLLs), specifically on Microsoft Windows
 - [Extension conflict](https://en.wikipedia.org/wiki/Extension_conflict): Problems with different extensions to classic Mac OS attempting to patch the same parts of the operating system
 - [JAR hell](https://en.wikipedia.org/wiki/Java_Classloader#JAR_hell): Overutilization of multiple JAR files, usually causing versioning and location problems because of misunderstanding of the Java class loading model
+
+### Also see:
+
+- [Code Smell](https://en.wikipedia.org/wiki/Code_smell)
+- [Design Smell](https://en.wikipedia.org/wiki/Design_smell)
+- [Dark Pattern](https://en.wikipedia.org/wiki/Dark_pattern)
+- [Software Rot](https://en.wikipedia.org/wiki/Software_rot)
+- [Capability Immaturity Model](https://en.wikipedia.org/wiki/Capability_Immaturity_Model)
+- [Software Development Philosophies](https://en.wikipedia.org/wiki/List_of_software_development_philosophies)
